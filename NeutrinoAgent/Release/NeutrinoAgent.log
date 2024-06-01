@@ -1,0 +1,22 @@
+﻿  Registry.cpp
+  dllmain.cpp
+C:\Users\InforBooK\source\repos\NeutrinoInjector\NeutrinoAgent\dllmain.cpp(81,18): warning C4566: caractere representado por nome de caractere universal (UCN) '\u041C' não pode ser representado na página de código atual (1252)
+C:\Users\InforBooK\source\repos\NeutrinoInjector\NeutrinoAgent\dllmain.cpp(81,18): warning C4566: caractere representado por nome de caractere universal (UCN) '\u043E' não pode ser representado na página de código atual (1252)
+C:\Users\InforBooK\source\repos\NeutrinoInjector\NeutrinoAgent\dllmain.cpp(81,18): warning C4566: caractere representado por nome de caractere universal (UCN) '\u0436' não pode ser representado na página de código atual (1252)
+C:\Users\InforBooK\source\repos\NeutrinoInjector\NeutrinoAgent\dllmain.cpp(81,18): warning C4566: caractere representado por nome de caractere universal (UCN) '\u0435' não pode ser representado na página de código atual (1252)
+C:\Users\InforBooK\source\repos\NeutrinoInjector\NeutrinoAgent\dllmain.cpp(81,18): warning C4566: caractere representado por nome de caractere universal (UCN) '\u0442' não pode ser representado na página de código atual (1252)
+C:\Users\InforBooK\source\repos\NeutrinoInjector\NeutrinoAgent\dllmain.cpp(81,18): warning C4566: caractere representado por nome de caractere universal (UCN) '\u043F' não pode ser representado na página de código atual (1252)
+C:\Users\InforBooK\source\repos\NeutrinoInjector\NeutrinoAgent\dllmain.cpp(81,18): warning C4566: caractere representado por nome de caractere universal (UCN) '\u0440' não pode ser representado na página de código atual (1252)
+C:\Users\InforBooK\source\repos\NeutrinoInjector\NeutrinoAgent\dllmain.cpp(81,18): warning C4566: caractere representado por nome de caractere universal (UCN) '\u0438' não pode ser representado na página de código atual (1252)
+C:\Users\InforBooK\source\repos\NeutrinoInjector\NeutrinoAgent\dllmain.cpp(81,18): warning C4566: caractere representado por nome de caractere universal (UCN) '\u0446' não pode ser representado na página de código atual (1252)
+C:\Users\InforBooK\source\repos\NeutrinoInjector\NeutrinoAgent\dllmain.cpp(81,18): warning C4566: caractere representado por nome de caractere universal (UCN) '\u044C' não pode ser representado na página de código atual (1252)
+C:\Users\InforBooK\source\repos\NeutrinoInjector\NeutrinoAgent\dllmain.cpp(81,18): warning C4566: caractere representado por nome de caractere universal (UCN) '\u043B' não pode ser representado na página de código atual (1252)
+C:\Users\InforBooK\source\repos\NeutrinoInjector\NeutrinoAgent\dllmain.cpp(81,18): warning C4566: caractere representado por nome de caractere universal (UCN) '\u0430' não pode ser representado na página de código atual (1252)
+C:\Users\InforBooK\source\repos\NeutrinoInjector\NeutrinoAgent\dllmain.cpp(81,18): warning C4566: caractere representado por nome de caractere universal (UCN) '\u0434' não pode ser representado na página de código atual (1252)
+C:\Users\InforBooK\source\repos\NeutrinoInjector\NeutrinoAgent\dllmain.cpp(81,18): warning C4566: caractere representado por nome de caractere universal (UCN) '\u0447' não pode ser representado na página de código atual (1252)
+C:\Users\InforBooK\source\repos\NeutrinoInjector\NeutrinoAgent\dllmain.cpp(81,18): warning C4566: caractere representado por nome de caractere universal (UCN) '\u043A' não pode ser representado na página de código atual (1252)
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 121 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  NeutrinoAgent.vcxproj -> C:\Users\InforBooK\source\repos\NeutrinoInjector\Release\NeutrinoAgent.dll
